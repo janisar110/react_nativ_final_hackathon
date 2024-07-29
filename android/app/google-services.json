@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680447654766",
+    "project_id": "jmfinalhackathon",
+    "storage_bucket": "jmfinalhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680447654766:android:b472c122b0435141235f7f",
+        "android_client_info": {
+          "package_name": "com.final_hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzqUeRfr3SclsvSogF8f10zTqvMdrlzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
